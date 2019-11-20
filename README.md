@@ -11,7 +11,7 @@ Companies such as Yelp, GrubHub and Seamless can use this type of model to help 
 -----------
 ## Sources:
 
-We web scrapped the following websites for recipe ingredients. All scrapped ingredients had a tag of which region it belongs to:
+We web scraped the following websites for recipe ingredients. All scraped ingredients had a tag of which region it belongs to:
 
 [BBC Food](https://www.bbc.com/food/cuisines), and [Epicurious](https://www.epicurious.com/cuisine/)
 
